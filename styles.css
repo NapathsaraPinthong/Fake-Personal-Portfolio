@@ -239,6 +239,9 @@ footer {
     align-items: center;
     padding: 2rem;
 }
+footer p:last-of-type {
+    text-align: right;
+}
 
 @media screen and (max-width: 550px) {
     #welcome-section h1 {
